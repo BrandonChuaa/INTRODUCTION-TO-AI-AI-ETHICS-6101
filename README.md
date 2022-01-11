@@ -1,4 +1,4 @@
-# INTRODUCTION-TO-AI-AI-ETHICS-6101
+# INTRODUCTION-TO-AI-AI-ETHICS-6101 (2019 Term 2)
 Contains source code for reinforcement learning mini project.
 
 # Requirements
